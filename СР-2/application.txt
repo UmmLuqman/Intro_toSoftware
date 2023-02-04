@@ -1,0 +1,2 @@
+Сервис Ресторанного бизнеса, где пользователи заказывают блюда на стол
+Сущности: Waiter, Guest, Chief, Order, Cuisine, check, guest bill
